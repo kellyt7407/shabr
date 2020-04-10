@@ -7,6 +7,28 @@
 .heading h2{
     text-align: center;
 }
+
+.home h2{
+    padding-top: 50px;
+}
+
+.information h2{
+    padding-top:50px;
+}
+
+.gallery h2{
+    padding-top: 50px;
+}
+
+.Testimonials h2{
+    padding-top: 50px;
+}
+
+.Contact h2{
+    padding-top: 50px;
+}
+
+
 /*  .gallery {*/
 /*  margin: 5px;*/
 /*  border: 1px solid #ccc;*/
